@@ -1,4 +1,4 @@
-vcpkg integrate install 
+ 
 
 #include <stdio.h>
 
