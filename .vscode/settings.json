@@ -1,3 +1,6 @@
 {
-    "C_Cpp.default.compilerPath": "c:\\mingw64\\bin\\clangd.exe"
+    "C_Cpp.default.compilerPath": "c:\\mingw64\\bin\\clangd.exe",
+    "files.associations": {
+        "cs50.h": "c"
+    }
 }
